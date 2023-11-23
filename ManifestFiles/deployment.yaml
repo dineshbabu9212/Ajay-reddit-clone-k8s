@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: reddit-clone
-        image: dineshbabu12/reddit:v36
+        image: dineshbabu12/reddit:v37
         ports:
         - containerPort: 3000
